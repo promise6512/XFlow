@@ -109,7 +109,7 @@ export const useGraphConfig = createGraphConfig(config => {
 })
 ```
 
-## 画布位置IPosition
+## 画布位置Position
 
 `position`属性是利用 css 的绝对定位把画布定位在 XFlow工作空间的任意位置。
 
